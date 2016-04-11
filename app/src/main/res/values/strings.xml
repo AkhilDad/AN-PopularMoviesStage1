@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PopularMoviesStage1</string>
+    <string name="string_sorting">Sorting</string>
+    <string name="string_popularity">Popularity</string>
+    <string name="string_rating">Rating</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="progress_message_movie_data">Please wait while loading data</string>
+    <string name="text_overview">Overview</string>
+    <string name="string_list_view">List View</string>
+    <string name="string_grid_view">Grid View</string>
+    <string name="sf_release_date">Release Date :\n %s</string>
+    <string name="string_movies_by_rating">Movies : By Rating</string>
+    <string name="string_movies_by_popularity">Movies : By Popularity</string>
+    <string name="error_no_movies">No movies found</string>
+    <string name="text_loading_message">Please wait while loading data</string>
+</resources>
